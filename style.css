@@ -1,0 +1,36 @@
+.body {
+    background-color: antiquewhite;
+    background-image:
+    linear-gradient(to right, rgb(0, 0, 0) 8px, transparent 10px),
+    linear-gradient(to bottom, rgb(0, 0, 0) 8px, transparent 10px);
+    background-size: 10px 10px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.body::-webkit-scrollbar{
+    display: none;
+}
+.Homemade {
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    font-size: 10vw;
+    transition: transform 0.2s ease;
+    margin-top: 1vw;
+    margin-bottom: 0;
+}
+.Homemade:hover {
+    transform: scale(1.1);
+}
+.textish {
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+    transition: transform 0.2s ease;
+    margin-top: 0;
+    font-style: italic;
+}
+.textish:hover {
+    transform: scale(1.05);
+}
