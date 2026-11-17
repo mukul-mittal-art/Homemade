@@ -41,9 +41,11 @@
     display: flex;
     gap: 2vw;
     justify-content: center;
+    margin: 0 auto;
+    margin-top: 5vw;
 }
 .page {
-    border: 3px solid antiquewhite;
+    border: 0.2vw solid antiquewhite;
     width: 22vw;
     justify-items: center;
     padding: 1vw;
@@ -82,5 +84,21 @@
     margin-top: 2vw;
     font-size: 2vw;
     text-align: center;
+    
+}
+
+.downthere {
+    width: 95vw;
+    min-height: 60vh;
+    max-height: 100vh;
+    border: 0.2vw white solid;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 4vw;
+    color: antiquewhite;
+    font-size: 2vw;
+    padding: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 0.5vw;
     
 }
