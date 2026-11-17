@@ -1,7 +1,7 @@
 # Homemade
 **coded by: Mukul**
 
-I have coded this personal website to show my love for literature i think.
+I have coded this personal website to show my love for literature, from consuming to making.
 # My demo link
 [https://mukul-mittal-art.github.io/Homemade/](https://mukul-mittal-art.github.io/Homemade/)
 
@@ -12,6 +12,7 @@ Languages used: CSS and HTML
 # What does it do?
 makes me happy. (jk)
 It's a project that shows my view on poetries, books I love and recommend, and why and how I consume and participate in literature.
+It mostly uses div tags for structure and then text and designs/artworks for content showcase.
 
 # How did i make it?
 * I made a rough sketch on paper on how i want it to look
